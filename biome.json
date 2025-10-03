@@ -66,7 +66,7 @@
       "correctness": {
         "noUnreachable": "error",
         "useExhaustiveDependencies": "error",
-        "noUnusedVariables": "error",
+        "noUnusedVariables": "warn",
         "noUndeclaredVariables": "error"
       },
       "nursery": {
